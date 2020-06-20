@@ -128,7 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Configuratoin
-# !config/
-config/*
-# !config/custom_components
+# homeassistant configuration
+homeassistant/config/*
